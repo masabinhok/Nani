@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 :root {
- --brand-primary: #264653;
- --brand-secondary:#2a9d8f;
+ --brand-primary: #2a9d8f;
+ --brand-secondary:#264653;
  --primary:#e9c46a;
  --secondary:#f4a261;
  --tertiary:#e76f51;

@@ -24,7 +24,7 @@ export default function RootLayout({
         className={`${workSans.variable} ${workSans.variable} antialiased`}
       >
         <Navbar />
-        <main className="mt-24 p-5 w-full flex-center max-w-[1320px]">
+        <main className="mt-24 w-full flex-center">
           {children}
         </main>
       </body>
