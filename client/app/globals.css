@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+ --brand-primary: #264653;
+ --brand-secondary:#2a9d8f;
+ --primary:#e9c46a;
+ --secondary:#f4a261;
+ --tertiary:#e76f51;
+ --white: #f9f9f9;
+ --black: #0b0c10;
+}
+
+body {
+  color: var(--black);
+  background: var(--white);
+}
+
+
+@layer utilities {
+  .flex-center {
+    @apply flex items-center justify-center;
+  }
+
+  .flex-between {
+    @apply flex items-center justify-between;
+  }
+}
+
