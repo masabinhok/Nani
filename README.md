@@ -1,11 +1,7 @@
-Here's an updated **README** for your **Nani** project, tailored to **Next.js**. It includes adjustments for the Next.js framework and environment setup.
-
----
-
 # Nani  
 **Aba Hajurko Sirani**: Your grandparents' perfect AI companion, designed to bring joy, safety, and care into their lives.  
 
-Nani was initially envisioned during Hack-a-Week but couldn’t come to life due to a lack of confidence. Today, it stands as a project to overcome self-doubt and transform dreams into reality.  
+Nani was initially envisioned during Hack-a-Week but couldn’t come to life as I lacked the courage to present it. Today, it stands as a project to overcome self-doubt and transform dreams into reality.  
 
 ![image](https://github.com/user-attachments/assets/7e14c111-24a3-4691-bb63-ae05e7bbd64a)
 
