@@ -38,6 +38,7 @@ const VoiceRecorder = () => {
     <div className='flex-center flex-col gap-5'>
       <div>
         <Image
+          priority
           src={NaniAvatar}
           className="h-[400px] w-auto aspect-square object-cover"
           alt="Nani AI avatar image"
